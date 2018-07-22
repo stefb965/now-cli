@@ -73,7 +73,7 @@
     "is-url": "1.2.2",
     "minimist": "1.2.0",
     "ms": "1.0.0",
-    "node-fetch": "1.6.3",
+    "node-fetch": "2.1.2",
     "opn": "4.0.2",
     "ora": "1.2.0",
     "progress": "2.0.0",
