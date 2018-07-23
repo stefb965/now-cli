@@ -79,7 +79,7 @@
     "progress": "2.0.0",
     "psl": "1.1.18",
     "resumer": "0.0.0",
-    "socket.io-client": "1.7.3",
+    "socket.io-client": "2.1.1",
     "split-array": "1.0.1",
     "strip-ansi": "3.0.1",
     "stripe": "4.17.1",
